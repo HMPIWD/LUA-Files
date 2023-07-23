@@ -1,5 +1,5 @@
 # LUA-Files
-My lua files for TeeWorlds. You should download an AllTheHaxx client to activate these files in-game, or buy Macho Client.
+My lua files for TeeWorlds. You should buy Macho Client to use my lua files.
 
 !!! REAllY IMPORTANT !!!
 You should to download a library to use these lua files, or it wont work.
