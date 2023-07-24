@@ -1,5 +1,5 @@
 -- MADE BY HMPIWD
--- UPGRADED BY loo_nely
+-- UPGRADED BY loo-nely
 
 include(".mlib/controls")
 include(".mlib/players")
